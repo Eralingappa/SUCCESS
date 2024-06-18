@@ -1,0 +1,16 @@
+.activeEl {
+  color: #ffffff;
+  border: none;
+  outline: none;
+  background-color: #db1c48;
+  padding-top: 7px;
+}
+.notActive {
+  background-color: transparent;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+}
+.button-list {
+  margin-top: 20px;
+  margin-right: 20px;
+}
